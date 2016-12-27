@@ -1,2 +1,18 @@
 What makes a developer "full-stack?"
 
+Differing opinions:
+
+SitePoint says
+https://www.sitepoint.com/full-stack-developer/
+
+Laurence Gellert says
+http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/
+
+The folks at Quora took a shot
+https://www.quora.com/What-does-the-term-full-stack-programmer-mean
+
+Andy Shora says they're a myth
+http://andyshora.com/full-stack-developers.html
+
+Tech Crunch says they've risen and fallen
+https://techcrunch.com/2014/11/08/the-rise-and-fall-of-the-full-stack-developer/
