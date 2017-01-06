@@ -2,4 +2,7 @@ Setting up an Application Load Balancer for Amazon ECS
 
 A load balancer can have one listener per protocol/port.
 Each listener has multiple rules.
-Each rule has a path and a target group attached. 
+Each rule has a path and a target group attached.
+
+http only on instances - and only open to alb group.
+ 
