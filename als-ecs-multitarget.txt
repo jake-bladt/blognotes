@@ -5,4 +5,5 @@ Each listener has multiple rules.
 Each rule has a path and a target group attached.
 
 http only on instances - and only open to alb group.
- 
+Open custom ports (ie 5600) only to alb & automated build/test projects.
+Need :80 open for health checks.
