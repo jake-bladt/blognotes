@@ -1,1 +1,5 @@
-How to
+How I wound up doing devops full-time
+
+* repeatedly called on to do "just enough automation" as part of dev/team lead jobs
+* expressed desire to devops recruiter
+* took pay cut
