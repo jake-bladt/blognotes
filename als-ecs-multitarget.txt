@@ -7,3 +7,75 @@ Each rule has a path and a target group attached.
 http only on instances - and only open to alb group.
 Open custom ports (ie 5600) only to alb & automated build/test projects.
 Need :80 open for health checks? (No. Health checks can be directed to any port using the advanced settings.)
+
+I'm using Terraform to set up a container cluster on the AWS cloud using ECS and running into a problem with mapping a load balancer to direct traffic to more than one container running on the cluster.
+
+To simplify, assume I'm running a service/task with two containers: webrequester listening on 5600 and restserver listening on 5000. I need traffic requesting /api/* to go to the restserver on port 5000 and default traffic to go to webrequester on 5600. This should work regardless of the number of container host instances I'm running.
+
+My best understanding is that I need to create an aws_alb_target_group_attachment to make this association and set its target_id to the Container ID. Is this correct? If so, how do I get the container ID inside of Terraform? I've created a cluster, service, task, application load balancer, and all the required entities to get them running, but I can't figure out which, if any of them, will let me access the container ids.
+
+	resource "aws_ecs_cluster" "main" {
+	  name = "jsapps-am${var.am_number}${var.cluster_iteration}"
+	}
+
+	resource "aws_alb_target_group" "https_default" {
+	  name     = "https-default-tg"
+	  port     = 443
+	  protocol = "HTTPS"
+	  vpc_id   = "${var.vpc_id}"
+	}
+
+	resource "aws_alb" "main" {
+	  name            = "af-${var.am_number}${var.cluster_iteration}-alb"
+	  subnets         = ["${var.vpc_subnets}"]
+	  security_groups = ["${aws_security_group.lb_sg.id}"]
+	}
+
+	resource "aws_alb_listener" "front_end" {
+	  load_balancer_arn = "${aws_alb.main.id}"
+	  port              = "443"
+	  protocol          = "HTTPS"
+	  ssl_policy        = "ELBSecurityPolicy-2015-05"
+	  certificate_arn   = "${var.https_certificate_arn}"
+
+	  default_action {
+	    target_group_arn = "${aws_alb_target_group.https_default.id}"
+	    type             = "forward"
+	  }
+	}
+
+	data "template_file" "task_definition" {
+	  template = "${file("${path.module}/task-definition.json")}"
+
+	  vars {
+	    image_url        = "${var.task_url}"
+	    container_name   = "webrequester"
+	    port_num         = "${var.webrequester_port}"
+	  }
+	}
+
+	resource "aws_ecs_task_definition" "jsapps" {
+	  family                = "jsapps_taskdef"
+	  container_definitions = "${data.template_file.task_definition.rendered}"
+	}
+
+	resource "aws_ecs_service" "jsapps" {
+	  name            = "jsapps-svc"
+	  cluster         = "${aws_ecs_cluster.main.id}"
+	  task_definition = "${aws_ecs_task_definition.jsapps.arn}"
+	  desired_count   = 1
+	  iam_role        = "${aws_iam_role.ecs_service.name}"
+
+	  load_balancer {
+	    target_group_arn = "${aws_alb_target_group.https_default.id}"
+	    container_name   = "webrequester"
+	    container_port   = "${var.webrequester_port}"
+	  }
+
+	  depends_on = [
+	    "aws_iam_role_policy.ecs_service",
+	    "aws_alb_listener.front_end",
+	  ]
+	}
+
+http://stackoverflow.com/questions/41772377/mapping-multiple-containers-to-an-application-load-balancer-in-terraform
