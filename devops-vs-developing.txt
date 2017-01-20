@@ -1,0 +1,2 @@
+As you figure things out in devops, write them down. You're going to have to do these things again (and again and again.)
+
