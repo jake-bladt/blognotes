@@ -13,3 +13,16 @@ Amazon Web Services
 Windows Azure
 Google Cloud
 
+Services:
+=========
+Redis
+0MQ
+Apache Storm
+Apache Kafka
+
+Databases:
+==========
+MongoDB
+PostgreSQL
+MySQL
+SQL Server
