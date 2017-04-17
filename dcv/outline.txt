@@ -1,3 +1,11 @@
+Devops Tools:
+=============
+Docker
+Packer
+Vagrant
+Chef
+HashiCorp Nomad
+
 Languages:
 ==========
 JavaScript
@@ -7,18 +15,26 @@ Rust
 Haskell
 bash scripting
 
+Libraries:
+==========
+ReactJS / ReactNative
+KnockoutJS
+Mocha / Chai
+
 Platforms:
 ==========
 Amazon Web Services
 Windows Azure
 Google Cloud
+AWS Lambda
+Hadoop / EMR
 
 Services:
 =========
 Redis
-0MQ
 Apache Storm
 Apache Kafka
+Nginx
 
 Databases:
 ==========
@@ -26,3 +42,10 @@ MongoDB
 PostgreSQL
 MySQL
 SQL Server
+
+Concepts:
+=========
+Computer Science
+Artificial Intelligence
+Machine Learning
+
