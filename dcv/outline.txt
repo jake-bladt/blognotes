@@ -4,5 +4,12 @@ JavaScript
 Python
 C#
 Rust
+Haskell
+bash scripting
 
+Platforms:
+==========
+Amazon Web Services
+Windows Azure
+Google Cloud
 
