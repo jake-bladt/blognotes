@@ -14,12 +14,14 @@ C#
 Rust
 Haskell
 bash scripting
+Scala
 
 Libraries:
 ==========
 ReactJS / ReactNative
 KnockoutJS
 Mocha / Chai
+Socket.io
 
 Platforms:
 ==========
@@ -35,6 +37,8 @@ Redis
 Apache Storm
 Apache Kafka
 Nginx
+Apache Zookeeper
+Load Balancing
 
 Databases:
 ==========
