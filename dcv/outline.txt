@@ -9,10 +9,8 @@ Nginx
 Languages:
 ==========
 JavaScript
-Python
 C#
 Rust
-Haskell
 bash scripting
 Scala
 
