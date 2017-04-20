@@ -35,9 +35,7 @@ Services:
 Redis
 Apache Storm
 Apache Kafka
-Nginx
 Apache Zookeeper
-Load Balancing
 
 Databases:
 ==========
