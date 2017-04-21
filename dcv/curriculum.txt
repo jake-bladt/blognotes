@@ -10,4 +10,8 @@ https://www.safaribooksonline.com/library/view/shell-scripting-expert/9781118166
 3. Data Structures & Algorithms (in JavaScript)
 https://www.safaribooksonline.com/library/view/learning-javascript-data/9781785285493/
 
+4. Nginx
+https://www.safaribooksonline.com/library/view/instant-nginx-starter/9781782165125/
 
+5. Devops
+https://www.safaribooksonline.com/library/view/learning-devops-continuously/9781787126619/
