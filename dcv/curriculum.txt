@@ -7,4 +7,7 @@ https://www.safaribooksonline.com/library/view/essentials-of-discrete/9781284056
 2. Linux Shell Scripting
 https://www.safaribooksonline.com/library/view/shell-scripting-expert/9781118166321/
 
+3. Data Structures & Algorithms (in JavaScript)
+https://www.safaribooksonline.com/library/view/learning-javascript-data/9781785285493/
+
 
