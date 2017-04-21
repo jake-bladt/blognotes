@@ -4,4 +4,7 @@ Year 1, Semester 1:
 1. Essentials of Discrete Mathematics
 https://www.safaribooksonline.com/library/view/essentials-of-discrete/9781284056242/
 
+2. Linux Shell Scripting
+https://www.safaribooksonline.com/library/view/shell-scripting-expert/9781118166321/
+
 
