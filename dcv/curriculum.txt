@@ -1,3 +1,7 @@
 Year 1, Semester 1:
 ===================
+
+1. Essentials of Discrete Mathematics
 https://www.safaribooksonline.com/library/view/essentials-of-discrete/9781284056242/
+
+
