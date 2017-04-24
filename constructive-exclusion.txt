@@ -1,3 +1,7 @@
 Comp sci questions that amount to "have you seen this before?"
 
 Use of the Mac.
+
+Crucial gems/libraries that don't work on Windows.
+
+"Accessibility" focused on handicaps, not on financial difficulties. Developers can't always choose their OS (for example.)
