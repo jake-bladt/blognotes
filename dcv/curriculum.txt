@@ -15,3 +15,9 @@ https://www.safaribooksonline.com/library/view/instant-nginx-starter/97817821651
 
 5. Devops
 https://www.safaribooksonline.com/library/view/learning-devops-continuously/9781787126619/
+
+Year 1, Semester 2:
+===================
+
+1. Scala
+https://www.safaribooksonline.com/library/view/scala-guide-for/9781787282858/
