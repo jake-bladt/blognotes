@@ -24,6 +24,9 @@ Year 1, Semester 2:
 Backlog
 =======
 
+Aritificial Intelligence with Python
+https://www.safaribooksonline.com/library/view/artificial-intelligence-with/9781786464392/
+
 Python Data Analysis
 https://www.safaribooksonline.com/library/view/python-data-analysis/9781787127487/
 
