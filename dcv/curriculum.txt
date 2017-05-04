@@ -24,5 +24,8 @@ Year 1, Semester 2:
 Backlog
 =======
 
-Scala
+Django: Web Development with Python
+https://www.safaribooksonline.com/library/view/django-web-development/9781787121386/
+
+Scala Guide For Data Analysis
 https://www.safaribooksonline.com/library/view/scala-guide-for/9781787282858/

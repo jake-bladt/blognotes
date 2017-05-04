@@ -12,6 +12,7 @@ JavaScript
 C#
 Rust
 bash scripting
+Python
 Scala
 
 Libraries:
