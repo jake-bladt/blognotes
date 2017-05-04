@@ -19,5 +19,10 @@ https://www.safaribooksonline.com/library/view/learning-devops-continuously/9781
 Year 1, Semester 2:
 ===================
 
-1. Scala
+
+
+Backlog
+=======
+
+Scala
 https://www.safaribooksonline.com/library/view/scala-guide-for/9781787282858/
