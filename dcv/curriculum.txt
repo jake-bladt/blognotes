@@ -24,6 +24,9 @@ Year 1, Semester 2:
 Backlog
 =======
 
+Data Science for Business
+https://blog.acolyer.org/2014/10/29/a-few-useful-things-to-know-about-machine-learning/
+
 Aritificial Intelligence with Python
 https://www.safaribooksonline.com/library/view/artificial-intelligence-with/9781786464392/
 
