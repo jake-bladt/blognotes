@@ -24,6 +24,9 @@ Year 1, Semester 2:
 Backlog
 =======
 
+Image Processing & Acquisition using Python
+https://www.safaribooksonline.com/library/view/image-processing-and/9781466583757/
+
 Pro Docker
 https://www.safaribooksonline.com/library/view/pro-docker/9781484218303/
 
