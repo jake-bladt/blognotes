@@ -1,1 +1,6 @@
-There are, of course, many things wrong with 
+There are, of course, many things wrong with the hiring process for developers. 
+
+Years of experience. What does a year of experience mean?
+
+Malcolm Gladwell's 10,000 hours to mastery. The "gladwell" as an exponential unit of experience.
+
