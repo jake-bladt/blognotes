@@ -6,3 +6,4 @@ Comparisons: sixteen years of experience for C#, twelve years of experience with
 
 Malcolm Gladwell's 10,000 hours to mastery. The "gladwell" as an exponential unit of experience.
 
+How many hours of work does a year of experience mean? Base 52 weeks at 40 hours a week with two weeks of vacation is 2,000 hours.
