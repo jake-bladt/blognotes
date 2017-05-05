@@ -27,6 +27,9 @@ Backlog
 Image Processing & Acquisition using Python
 https://www.safaribooksonline.com/library/view/image-processing-and/9781466583757/
 
+Mathematical Foundations of Image Processing
+https://www.safaribooksonline.com/library/view/mathematical-foundations-of/9781118649121/
+
 Pro Docker
 https://www.safaribooksonline.com/library/view/pro-docker/9781484218303/
 
