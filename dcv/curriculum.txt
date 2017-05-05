@@ -24,11 +24,23 @@ Year 1, Semester 2:
 Backlog
 =======
 
+Pro Docker
+https://www.safaribooksonline.com/library/view/pro-docker/9781484218303/
+
+Docker Up and Running
+https://www.safaribooksonline.com/library/view/docker-up/9781491917565/
+
+Professional NodeJS
+https://www.safaribooksonline.com/library/view/professional-nodejs-building/9781118240564/
+
 Data Science for Business
-https://blog.acolyer.org/2014/10/29/a-few-useful-things-to-know-about-machine-learning/
+https://www.safaribooksonline.com/library/view/data-science-for/9781449374273/
 
 Aritificial Intelligence with Python
 https://www.safaribooksonline.com/library/view/artificial-intelligence-with/9781786464392/
+
+Redis Essentials
+https://www.safaribooksonline.com/library/view/redis-essentials/9781784392451/
 
 Python Data Analysis
 https://www.safaribooksonline.com/library/view/python-data-analysis/9781787127487/
@@ -41,3 +53,7 @@ https://www.safaribooksonline.com/library/view/django-web-development/9781787121
 
 Scala Guide For Data Analysis
 https://www.safaribooksonline.com/library/view/scala-guide-for/9781787282858/
+
+Zookeeper
+https://www.safaribooksonline.com/library/view/zookeeper/9781449361297/
+
