@@ -25,7 +25,14 @@ https://www.safaribooksonline.com/library/view/machine-learning-in/9781118961759
 2. Programming in Rust
 https://www.safaribooksonline.com/library/view/programming-rust/9781491927274/
 
+3. Building Blockchain Projects
+https://www.safaribooksonline.com/library/view/building-blockchain-projects/9781787122147/
 
+4. Fundamentals of Technical Mathematics
+https://www.safaribooksonline.com/library/view/fundamentals-of-technical/9780128020166/
+
+5. Pro Docker
+https://www.safaribooksonline.com/library/view/pro-docker/9781484218303/
 
 
 Backlog
@@ -49,17 +56,11 @@ https://www.safaribooksonline.com/library/view/fundamentals-of-actuarial/9781118
 Mathematics for Physicists
 https://www.safaribooksonline.com/library/view/mathematics-for-physicists/9780470660232/
 
-Fundamentals of Technical Mathematics
-https://www.safaribooksonline.com/library/view/fundamentals-of-technical/9780128020166/
-
 Image Processing & Acquisition using Python
 https://www.safaribooksonline.com/library/view/image-processing-and/9781466583757/
 
 Mathematical Foundations of Image Processing
 https://www.safaribooksonline.com/library/view/mathematical-foundations-of/9781118649121/
-
-Pro Docker
-https://www.safaribooksonline.com/library/view/pro-docker/9781484218303/
 
 Docker Up and Running
 https://www.safaribooksonline.com/library/view/docker-up/9781491917565/
