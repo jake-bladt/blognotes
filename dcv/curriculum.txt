@@ -19,6 +19,13 @@ https://www.safaribooksonline.com/library/view/learning-devops-continuously/9781
 Year 1, Semester 2:
 ===================
 
+1. Machine Learning in Python
+https://www.safaribooksonline.com/library/view/machine-learning-in/9781118961759/
+
+2. Programming in Rust
+https://www.safaribooksonline.com/library/view/programming-rust/9781491927274/
+
+
 
 
 Backlog
@@ -71,9 +78,6 @@ https://www.safaribooksonline.com/library/view/redis-essentials/9781784392451/
 
 Python Data Analysis
 https://www.safaribooksonline.com/library/view/python-data-analysis/9781787127487/
-
-Machine Learning in Python
-https://www.safaribooksonline.com/library/view/machine-learning-in/9781118961759/
 
 Django: Web Development with Python
 https://www.safaribooksonline.com/library/view/django-web-development/9781787121386/
