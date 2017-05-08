@@ -24,6 +24,24 @@ Year 1, Semester 2:
 Backlog
 =======
 
+Implementing DevOps on AWS
+https://www.safaribooksonline.com/library/view/implementing-devops-on/9781786460141/
+
+Graph Databases
+https://www.safaribooksonline.com/library/view/graph-databases/9781449356255/
+
+From Mathematics to Generic Programming
+https://www.safaribooksonline.com/library/view/from-mathematics-to/9780133491791/
+
+Fundamentals of Actuarial Mathematics
+https://www.safaribooksonline.com/library/view/fundamentals-of-actuarial/9781118782521/
+
+Mathematics for Physicists
+https://www.safaribooksonline.com/library/view/mathematics-for-physicists/9780470660232/
+
+Fundamentals of Technical Mathematics
+https://www.safaribooksonline.com/library/view/fundamentals-of-technical/9780128020166/
+
 Image Processing & Acquisition using Python
 https://www.safaribooksonline.com/library/view/image-processing-and/9781466583757/
 
