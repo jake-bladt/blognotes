@@ -24,6 +24,9 @@ Year 1, Semester 2:
 Backlog
 =======
 
+C++ Cookbook
+https://www.safaribooksonline.com/library/view/c-cookbook/0596007612/
+
 Implementing DevOps on AWS
 https://www.safaribooksonline.com/library/view/implementing-devops-on/9781786460141/
 
