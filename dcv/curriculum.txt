@@ -13,7 +13,7 @@ https://www.safaribooksonline.com/library/view/learning-javascript-data/97817852
 4. Nginx
 https://www.safaribooksonline.com/library/view/instant-nginx-starter/9781782165125/
 
-5. Devops
+(Completed) 5. Devops
 https://www.safaribooksonline.com/library/view/learning-devops-continuously/9781787126619/
 
 Year 1, Semester 2:
@@ -31,12 +31,14 @@ https://www.safaribooksonline.com/library/view/building-blockchain-projects/9781
 4. Fundamentals of Technical Mathematics
 https://www.safaribooksonline.com/library/view/fundamentals-of-technical/9780128020166/
 
-5. Pro Docker
-https://www.safaribooksonline.com/library/view/pro-docker/9781484218303/
-
+5. Python Game Development
+https://www.safaribooksonline.com/library/view/beginning-python-games/9781484209707/
 
 Backlog
 =======
+
+Pro Docker
+https://www.safaribooksonline.com/library/view/pro-docker/9781484218303/
 
 C++ Cookbook
 https://www.safaribooksonline.com/library/view/c-cookbook/0596007612/
