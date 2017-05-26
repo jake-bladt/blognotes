@@ -1,0 +1,1 @@
+Today marks six months that I've been a dedicated devops engineer. And
