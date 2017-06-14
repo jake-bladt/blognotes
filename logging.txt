@@ -1,0 +1,4 @@
+The Life Changing Magic of Effective Logging
+
+How to write good logs in Linux
+Logstash
