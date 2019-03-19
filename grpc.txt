@@ -1,1 +1,3 @@
 Is gRPC the REST killer?
+
+Protocol buffers and version impedance.
