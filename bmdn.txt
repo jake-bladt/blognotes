@@ -1,0 +1,2 @@
+Using Benchmark.net for declarative performance testing:
+https://github.com/dotnet/BenchmarkDotNet
