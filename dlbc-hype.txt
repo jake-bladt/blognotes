@@ -1,1 +1,5 @@
 Behind the Hype: What is Blockchain good for?
+
+The Merkle-tree root hash
+https://en.wikipedia.org/wiki/Merkle_tree
+
