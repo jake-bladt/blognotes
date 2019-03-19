@@ -1,0 +1,5 @@
+Building your distributed monolith.
+
+Database entanglement and poor separation of concerns can make your microservice architecture into a closet monolith.
+
+(Analogy for the root systems of trees.)
